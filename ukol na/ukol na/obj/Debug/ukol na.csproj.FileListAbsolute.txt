@@ -1,0 +1,10 @@
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ukol na\ukol na\bin\Debug\ukol na.exe.config
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ukol na\ukol na\bin\Debug\ukol na.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ukol na\ukol na\bin\Debug\ukol na.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ukol na\ukol na\obj\Debug\ukol na.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ukol na\ukol na\obj\Debug\ukol_na.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ukol na\ukol na\obj\Debug\ukol_na.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ukol na\ukol na\obj\Debug\ukol na.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ukol na\ukol na\obj\Debug\ukol na.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ukol na\ukol na\obj\Debug\ukol na.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ukol na\ukol na\obj\Debug\ukol na.pdb
